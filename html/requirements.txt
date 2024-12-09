@@ -1,0 +1,10 @@
+fastai==1.0.61
+gen3
+matplotlib
+numpy
+pandas
+plotly
+pywaffle
+requests
+scipy
+seaborn
